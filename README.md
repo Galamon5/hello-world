@@ -1,5 +1,4 @@
 # hello-world
-Información, ideas y como empiezo a usar GIT
 
 This is how a legend starts gg izy picy tu gfa en motociclicy haha
 
